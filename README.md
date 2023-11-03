@@ -3,7 +3,7 @@ git clone https://github.com/sgghyu/VIP
 
 cd VIP
 
-python VIP.cython-easy-38.so
+python VIPR.cython-easy-38.so
 
 
 #install : نزل الاوامر اول
